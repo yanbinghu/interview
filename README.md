@@ -1,7 +1,7 @@
 ## 面试题合集
 
 ## 目录
-* [C](interview/blob/master/C/README.md)
+* [C](interview/C/README.md)
 * [Cpp](interview/blob/master/Cpp/README.md)
 * [Shell](interview/blob/master/Shell/README.md)
 * [操作系统](interview/blob/master/OperatingSystem/README.md)
