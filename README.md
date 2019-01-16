@@ -1,37 +1,14 @@
 ## 面试题合集
 
 ## 目录
-* [C](#c)
-* [Cpp](#cpp)
-* [Shell](#shell)
-* [操作系统](#操作系统)
-* [网络编程](#网络编程)
-* [数据结构和算法](#数据结构和算法)
-* [数据库](#数据库)
-* [设计模式](#设计模式)
-* [网络协议](#网络协议)
-* [编译链接](#编译链接)
-* [书籍推荐](#书籍推荐)
-
-## c
-
-## cpp
-
-## shell
-
-## 操作系统
-
-## 网络编程
-
-## 数据结构和算法
-
-## 数据库
-
-## 设计模式
-
-## 网络协议
-
-## 编译链接
-
-## 书籍推荐
-[各领域经典书籍](https://github.com/yanbinghu/books)
+* [C](interview/blob/master/C/README.md)
+* [Cpp](interview/blob/master/Cpp/README.md)
+* [Shell](interview/blob/master/Shell/README.md)
+* [操作系统](interview/blob/master/OperatingSystem/README.md)
+* [网络编程](interview/blob/master/NetworkProgramming/README.md)
+* [数据结构和算法](interview/blob/master/DataStructure-Algorithm/README.md)
+* [数据库](interview/blob/master/Database/README.md)
+* [设计模式](interview/blob/master/DesignPatterns/README.md)
+* [计算机网络](interview/blob/master/ComputerNetwork/README.md)
+* [编译链接](interview/blob/master/Compile-Link/README.md)
+* [书籍推荐](https://github.com/yanbinghu/books)
